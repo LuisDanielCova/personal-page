@@ -19,7 +19,7 @@ export const Projects = () => {
         </div>
         <div className="col-md-5">
           <img
-            className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
+            className="featurette-image img-fluid mx-auto rounded img-thumbnail"
             width="500"
             height="500"
             src="http://placekitten.com/500/500"
@@ -31,7 +31,7 @@ export const Projects = () => {
       <div className="row featurette">
         <div className="col-md-5">
           <img
-            className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
+            className="featurette-image img-fluid mx-auto rounded img-thumbnail"
             width="400"
             height="400"
             src="http://placekitten.com/400/400"

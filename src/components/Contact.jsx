@@ -14,9 +14,15 @@ export const Contact = () => {
             <li>Email: lorem@ipsum.com</li>
             <li>Phone: 01234567891</li>
             <li>Twitter: loremipsum</li>
+            <li>
+              <a href="" className="link-primary">
+                My resume
+              </a>
+            </li>
           </ul>
         </div>
       </div>
+      <br className="mb-5" />
     </div>
   );
 };
