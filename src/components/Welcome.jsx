@@ -10,13 +10,9 @@ export const Welcome = () => {
         width="300"
         height="300"
       />
-      <h1 className="display-5 fw-bold">Welcome</h1>
+      <h1 className="display-5 fw-bold">Welcome, I'm Luis Daniel Cova</h1>
       <div className="col-lg-6 mx-auto">
-        <p className="lead mb-4">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta illum
-          dolor nesciunt totam consequatur officiis eum consectetur, temporibus
-          hic minima.
-        </p>
+        <p className="display-6 lead mb-4">I'm a Fullstack Web Developer</p>
       </div>
     </div>
   );
