@@ -39,20 +39,18 @@ export const Projects = () => {
         <div className="col-md-6 my-auto">
           <img
             className="featurette-image img-fluid mx-auto rounded img-thumbnail"
-            src="/images/projects/demo.png"
+            src="/images/projects/thesis.png"
             aria-label="Welcome page to a virtual classroom website"
           ></img>
         </div>
       </div>
       <hr className="featurrete-divider" />
       <div className="row featurette">
-        <div className="col-md-5">
+        <div className="col-md-5 my-auto">
           <img
             className="featurette-image img-fluid mx-auto rounded img-thumbnail"
-            width="400"
-            height="400"
-            src="http://placekitten.com/400/400"
-            aria-label="Placeholder: 500x500"
+            src="/images/projects/odin.png"
+            aria-label="Welcome page to a facebook clone"
           ></img>
         </div>
         <div className="col-md-7">
