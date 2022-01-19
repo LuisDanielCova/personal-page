@@ -39,7 +39,7 @@ export const Projects = () => {
         <div className="col-md-6 my-auto">
           <img
             className="featurette-image img-fluid mx-auto rounded img-thumbnail"
-            src="/images/projects/thesis.png"
+            src="docs/assets/images/projects/thesis.png"
             aria-label="Welcome page to a virtual classroom website"
           ></img>
         </div>
@@ -49,7 +49,7 @@ export const Projects = () => {
         <div className="col-md-5 my-auto">
           <img
             className="featurette-image img-fluid mx-auto rounded img-thumbnail"
-            src="/images/projects/odin.png"
+            src="docs/assets/images/projects/odin.png"
             aria-label="Welcome page to a facebook clone"
           ></img>
         </div>
