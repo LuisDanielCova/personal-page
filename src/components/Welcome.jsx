@@ -1,11 +1,12 @@
 import React from "react";
+import ProfileImage from "./assets/images/personal/profile.png";
 
 export const Welcome = () => {
   return (
     <div className="px-4 m-5 py-5 text-center">
       <img
         className="d-block mx-auto mb-4 rounded img-thumbnail"
-        src="/docs/assets/images/personal/profile.png"
+        src={ProfileImage}
         alt=""
         width="300"
         height="300"

@@ -1,4 +1,5 @@
 import React from "react";
+import AboutImage from "./assets/images/personal/about.png";
 
 export const About = () => {
   return (
@@ -6,7 +7,7 @@ export const About = () => {
       <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
         <div className="col-10 col-sm-8 col-lg-6">
           <img
-            src="/docs/assets/images/personal/about.png"
+            src={AboutImage}
             className="d-block mx-lg-auto img-fluid rounded img-thumbnail"
             alt="Bootstrap Themes"
             width="700"

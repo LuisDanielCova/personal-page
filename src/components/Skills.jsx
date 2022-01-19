@@ -1,4 +1,15 @@
 import React from "react";
+import HtmlImage from "./assets/images/skills/html.png";
+import BootstrapImage from "./assets/images/skills/bootstrap.png";
+import JavaScriptImage from "./assets/images/skills/js.png";
+import ReactJSImage from "./assets/images/skills/reactjs.png";
+import NodeJSImage from "./assets/images/skills/nodejs.png";
+import ExpressImage from "./assets/images/skills/express.png";
+import MongoDBImage from "./assets/images/skills/mongodb.png";
+import MongooseImage from "./assets/images/skills/mongoose.png";
+import GitImage from "./assets/images/skills/git.png";
+import GitHubImage from "./assets/images/skills/github.png";
+import HerokuImage from "./assets/images/skills/heroku.png";
 
 export const Skills = () => {
   return (
@@ -9,27 +20,17 @@ export const Skills = () => {
           <h2>Front-End</h2>
           <ul className="lead fs-5">
             <li>
-              HTML5{" "}
-              <img className="pb-1" src="/docs/assets/images/skills/html.png" />
+              HTML5 <img className="pb-1" src={HtmlImage} />
             </li>
             <li>
               Bootstrap{" "}
-              <img
-                src="/docs/assets/images/skills/bootstrap.png"
-                height={26}
-                className="pb-1"
-              />
+              <img src={BootstrapImage} height={26} className="pb-1" />
             </li>
             <li>
-              JavaScript{" "}
-              <img className="pb-1" src="/docs/assets/images/skills/js.png" />
+              JavaScript <img className="pb-1" src={JavaScriptImage} />
             </li>
             <li>
-              ReactJS{" "}
-              <img
-                className="pb-1"
-                src="/docs/assets/images/skills/reactjs.png"
-              />
+              ReactJS <img className="pb-1" src={ReactJSImage} />
             </li>
           </ul>
         </div>
@@ -37,30 +38,16 @@ export const Skills = () => {
           <h2>Back-End</h2>
           <ul className="lead fs-5">
             <li>
-              NodeJS <img src="/docs/assets/images/skills/nodejs.png" />
+              NodeJS <img src={NodeJSImage} />
             </li>
             <li>
-              Express{" "}
-              <img
-                src="/docs/assets/images/skills/express.png"
-                width={24}
-                className="pb-1"
-              />
+              Express <img src={ExpressImage} width={24} className="pb-1" />
             </li>
             <li>
-              MongoDB{" "}
-              <img
-                src="/docs/assets/images/skills/mongodb.png"
-                className="pb-1"
-              />
+              MongoDB <img src={MongoDBImage} className="pb-1" />
             </li>
             <li>
-              Mongoose{" "}
-              <img
-                src="/docs/assets/images/skills/mongoose.png"
-                width={30}
-                className="pb-1"
-              />
+              Mongoose <img src={MongooseImage} width={30} className="pb-1" />
             </li>
           </ul>
         </div>
@@ -68,18 +55,13 @@ export const Skills = () => {
           <h2>Miscellaneous</h2>
           <ul className="lead fs-5">
             <li>
-              Git{" "}
-              <img className="pb-1" src="/docs/assets/images/skills/git.png" />
+              Git <img className="pb-1" src={GitImage} />
             </li>
             <li>
-              Github{" "}
-              <img
-                className="pb-1"
-                src="/docs/assets/images/skills/github.png"
-              />
+              Github <img className="pb-1" src={GitHubImage} />
             </li>
             <li>
-              Heroku <img src="/docs/assets/images/skills/heroku.png" />
+              Heroku <img src={HerokuImage} />
             </li>
           </ul>
         </div>
