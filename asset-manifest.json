@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.js": "/personal-page/static/js/main.675a3cc8.js",
+    "main.js": "/personal-page/static/js/main.ef024458.js",
     "static/media/thesis.png": "/personal-page/static/media/thesis.e7453b48f02c43dbb2f4.png",
     "static/media/about.png": "/personal-page/static/media/about.fe02db714ef82f796827.png",
+    "static/media/CV_LuisDanielCova.pdf": "/personal-page/static/media/CV_LuisDanielCova.c5e068879b35a9492590.pdf",
     "static/media/profile.png": "/personal-page/static/media/profile.d616a964987597a28c97.png",
     "static/media/odin.png": "/personal-page/static/media/odin.c4ef39452d448daec334.png",
     "static/media/bootstrap.png": "/personal-page/static/media/bootstrap.f132cb791703420e69ca.png",
     "index.html": "/personal-page/index.html",
-    "main.675a3cc8.js.map": "/personal-page/static/js/main.675a3cc8.js.map"
+    "main.ef024458.js.map": "/personal-page/static/js/main.ef024458.js.map"
   },
   "entrypoints": [
-    "static/js/main.675a3cc8.js"
+    "static/js/main.ef024458.js"
   ]
 }
