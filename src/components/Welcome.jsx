@@ -5,7 +5,7 @@ export const Welcome = () => {
     <div className="px-4 m-5 py-5 text-center">
       <img
         className="d-block mx-auto mb-4 rounded img-thumbnail"
-        src="/images/personal/profile.png"
+        src="/docs/assets/images/personal/profile.png"
         alt=""
         width="300"
         height="300"

@@ -9,21 +9,27 @@ export const Skills = () => {
           <h2>Front-End</h2>
           <ul className="lead fs-5">
             <li>
-              HTML5 <img className="pb-1" src="/images/skills/html.png" />
+              HTML5{" "}
+              <img className="pb-1" src="/docs/assets/images/skills/html.png" />
             </li>
             <li>
               Bootstrap{" "}
               <img
-                src="/images/skills/bootstrap.png"
+                src="/docs/assets/images/skills/bootstrap.png"
                 height={26}
                 className="pb-1"
               />
             </li>
             <li>
-              JavaScript <img className="pb-1" src="/images/skills/js.png" />
+              JavaScript{" "}
+              <img className="pb-1" src="/docs/assets/images/skills/js.png" />
             </li>
             <li>
-              ReactJS <img className="pb-1" src="/images/skills/reactjs.png" />
+              ReactJS{" "}
+              <img
+                className="pb-1"
+                src="/docs/assets/images/skills/reactjs.png"
+              />
             </li>
           </ul>
         </div>
@@ -31,23 +37,27 @@ export const Skills = () => {
           <h2>Back-End</h2>
           <ul className="lead fs-5">
             <li>
-              NodeJS <img src="/images/skills/nodejs.png" />
+              NodeJS <img src="/docs/assets/images/skills/nodejs.png" />
             </li>
             <li>
               Express{" "}
               <img
-                src="/images/skills/express.png"
+                src="/docs/assets/images/skills/express.png"
                 width={24}
                 className="pb-1"
               />
             </li>
             <li>
-              MongoDB <img src="/images/skills/mongodb.png" className="pb-1" />
+              MongoDB{" "}
+              <img
+                src="/docs/assets/images/skills/mongodb.png"
+                className="pb-1"
+              />
             </li>
             <li>
               Mongoose{" "}
               <img
-                src="/images/skills/mongoose.png"
+                src="/docs/assets/images/skills/mongoose.png"
                 width={30}
                 className="pb-1"
               />
@@ -58,13 +68,18 @@ export const Skills = () => {
           <h2>Miscellaneous</h2>
           <ul className="lead fs-5">
             <li>
-              Git <img className="pb-1" src="/images/skills/git.png" />
+              Git{" "}
+              <img className="pb-1" src="/docs/assets/images/skills/git.png" />
             </li>
             <li>
-              Github <img className="pb-1" src="/images/skills/github.png" />
+              Github{" "}
+              <img
+                className="pb-1"
+                src="/docs/assets/images/skills/github.png"
+              />
             </li>
             <li>
-              Heroku <img src="/images/skills/heroku.png" />
+              Heroku <img src="/docs/assets/images/skills/heroku.png" />
             </li>
           </ul>
         </div>
