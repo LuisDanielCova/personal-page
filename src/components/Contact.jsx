@@ -26,7 +26,7 @@ export const Contact = () => {
                 download="CV_LuisDanielCova.pdf"
                 className="link-primary"
               >
-                My resume
+                My Resume
               </a>
             </li>
           </ul>
