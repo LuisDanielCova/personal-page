@@ -39,7 +39,7 @@ export const Projects = () => {
         <div className="col-md-6 my-auto">
           <img
             className="featurette-image img-fluid mx-auto rounded img-thumbnail"
-            src="/images/demo.png"
+            src="/images/projects/demo.png"
             aria-label="Welcome page to a virtual classroom website"
           ></img>
         </div>

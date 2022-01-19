@@ -20,7 +20,11 @@ export const Contact = () => {
               </a>
             </li>
             <li>
-              <a href="" className="link-primary">
+              <a
+                href="/files/CV_LuisDanielCova.pdf"
+                download="CV_LuisDanielCova.pdf"
+                className="link-primary"
+              >
                 My resume
               </a>
             </li>
