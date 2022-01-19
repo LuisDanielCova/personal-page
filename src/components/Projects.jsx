@@ -1,6 +1,5 @@
 import React from "react";
-import ThesisImage from "./assets/images/projects/thesis.png";
-import OdinImage from "./assets/images/projects/odin.png";
+import { projectImages } from "./assets/images.js";
 
 export const Projects = () => {
   return (
@@ -41,7 +40,7 @@ export const Projects = () => {
         <div className="col-md-6 my-auto">
           <img
             className="featurette-image img-fluid mx-auto rounded img-thumbnail"
-            src={ThesisImage}
+            src={projectImages.Thesis}
             aria-label="Welcome page to a virtual classroom website"
           ></img>
         </div>
@@ -51,7 +50,7 @@ export const Projects = () => {
         <div className="col-md-5 my-auto">
           <img
             className="featurette-image img-fluid mx-auto rounded img-thumbnail"
-            src={OdinImage}
+            src={projectImages.Odin}
             aria-label="Welcome page to a facebook clone"
           ></img>
         </div>
