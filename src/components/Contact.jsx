@@ -1,4 +1,5 @@
 import React from "react";
+import CV from "./assets/files/CV_LuisDanielCova.pdf";
 
 export const Contact = () => {
   return (
@@ -21,7 +22,7 @@ export const Contact = () => {
             </li>
             <li>
               <a
-                href="/files/CV_LuisDanielCova.pdf"
+                href={CV}
                 download="CV_LuisDanielCova.pdf"
                 className="link-primary"
               >
