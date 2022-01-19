@@ -5,7 +5,7 @@ export const Welcome = () => {
     <div className="px-4 m-5 py-5 text-center">
       <img
         className="d-block mx-auto mb-4 rounded img-thumbnail"
-        src="http://placekitten.com/300/300"
+        src="/images/personal/profile.png"
         alt=""
         width="300"
         height="300"

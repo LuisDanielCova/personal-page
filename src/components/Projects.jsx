@@ -70,13 +70,6 @@ export const Projects = () => {
           </p>
           <div className="col">
             <a
-              className="btn btn-primary me-1 mt-1"
-              href="https://clever-kirch-3c5ec1.netlify.app/"
-              target="_blank"
-            >
-              Visit Site
-            </a>
-            <a
               className="btn btn-secondary mt-1"
               href="https://github.com/Asdaois/odin-book"
               target="_blank"
