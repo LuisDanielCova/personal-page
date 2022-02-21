@@ -41,6 +41,9 @@ export const Skills = () => {
               Mongoose{" "}
               <img src={skillImages.Mongoose} width={30} className="pb-1" />
             </li>
+            <li>
+              Django <img src={skillImages.Django} className="pb-1" />
+            </li>
           </ul>
         </div>
         <div className="feature col">
