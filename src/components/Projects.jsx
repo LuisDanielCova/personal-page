@@ -45,7 +45,7 @@ export const Projects = () => {
           ></img>
         </div>
       </div>
-      <hr className="featurrete-divider" />
+      <hr className="featurette-divider" />
       <div className="row featurette">
         <div className="col-md-5 my-auto">
           <img
@@ -78,7 +78,7 @@ export const Projects = () => {
           </div>
         </div>
       </div>
-      <hr className="featurrete-divider" />
+      <hr className="featurette-divider" />
       <div className="row featurette">
         <div className="col-md-6">
           <h3 className="featurette-heading">
@@ -115,7 +115,7 @@ export const Projects = () => {
           <img
             className="featurette-image img-fluid mx-auto rounded img-thumbnail"
             src={projectImages.Wardrobe}
-            aria-label="Welcome page to a virtual classroom website"
+            aria-label="Welcome page to an e-commerce website"
           ></img>
         </div>
       </div>
