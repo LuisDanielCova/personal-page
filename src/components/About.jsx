@@ -10,7 +10,7 @@ export const About = () => {
             src={personalImages.About}
             className="d-block mx-lg-auto img-fluid rounded img-thumbnail"
             alt="Bootstrap Themes"
-            width="700"
+            width="500"
             height="500"
             loading="lazy"
           />
@@ -18,9 +18,8 @@ export const About = () => {
         <div className="col-lg-6">
           <h1 className="display-5 fw-bold lh-1 mb-3">About</h1>
           <p className="lead fs-4">
-            My name is Luis Daniel Cova and I'm a Fullstack Web Developer and an
-            Informatics Engineer graduate. Right now I'm focusing on learning
-            more about developing server-side code.
+            My name is Luis Daniel Cova I'm a Computer Science and Engineering
+            graduate specialized in Full Stack Web Development.
           </p>
           <p className="lead fs-4">
             I'm a confident and honest person, well-organized, and I always look
@@ -29,6 +28,10 @@ export const About = () => {
           </p>
           <p className="lead fs-4">
             Check out the projects I've worked on below.
+          </p>
+          <p className="lead fs-4">
+            Also, I beat Dark Souls 3 lvl 1 no roll, so yeah, I'm kind of a big
+            deal.
           </p>
         </div>
       </div>

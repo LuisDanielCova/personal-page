@@ -13,7 +13,7 @@ export const Contact = () => {
           </p>
           <ul className="lead fs-4">
             <li>Email: ldcn96@gmail.com</li>
-            <li>Phone: +584169861942</li>
+            <li>Phone: +58 412-8779983</li>
             <li>
               Github:{" "}
               <a target="_blank" href="https://github.com/LuisDanielCova">

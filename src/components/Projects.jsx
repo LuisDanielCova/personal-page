@@ -47,39 +47,13 @@ export const Projects = () => {
       </div>
       <hr className="featurette-divider" />
       <div className="row featurette">
-        <div className="col-md-5 my-auto">
+        <div className="col-md-6 my-auto">
           <img
             className="featurette-image img-fluid mx-auto rounded img-thumbnail"
-            src={projectImages.Odin}
-            aria-label="Welcome page to a facebook clone"
+            src={projectImages.Wardrobe}
+            aria-label="Welcome page to an e-commerce website"
           ></img>
         </div>
-        <div className="col-md-7">
-          <h3 className="featurette-heading">
-            Odinbook, <span className="text-muted">Facebook Clone.</span>
-          </h3>
-          <p className="lead fs-4">
-            This is the final project from the online course Odin Project. It's
-            a minimalistic Facebook clone, focusing on creating post, users, and
-            being able to send friend requests between the users.
-          </p>
-          <p className="lead fs-4">
-            I worked in this project by developing the database structure and
-            the backend code.
-          </p>
-          <div className="col">
-            <a
-              className="btn btn-secondary mt-1"
-              href="https://github.com/Asdaois/odin-book"
-              target="_blank"
-            >
-              Repository
-            </a>
-          </div>
-        </div>
-      </div>
-      <hr className="featurette-divider" />
-      <div className="row featurette">
         <div className="col-md-6">
           <h3 className="featurette-heading">
             The Wardrobe, <span className="text-muted">E-Commerce.</span>
@@ -110,13 +84,6 @@ export const Projects = () => {
               Repository
             </a>
           </div>
-        </div>
-        <div className="col-md-6 my-auto">
-          <img
-            className="featurette-image img-fluid mx-auto rounded img-thumbnail"
-            src={projectImages.Wardrobe}
-            aria-label="Welcome page to an e-commerce website"
-          ></img>
         </div>
       </div>
     </div>

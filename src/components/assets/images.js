@@ -2,6 +2,9 @@
 import Html from "./images/skills/html.png";
 import Bootstrap from "./images/skills/bootstrap.png";
 import JavaScript from "./images/skills/js.png";
+import TypeScript from "./images/skills/ts.png";
+import Css from "./images/skills/css.png";
+import MUI from "./images/skills/mui.png";
 import ReactJS from "./images/skills/reactjs.png";
 import NodeJS from "./images/skills/nodejs.png";
 import Express from "./images/skills/express.png";
@@ -25,6 +28,7 @@ export const skillImages = {
   Html,
   Bootstrap,
   JavaScript,
+  Css,
   ReactJS,
   NodeJS,
   Express,
@@ -34,6 +38,8 @@ export const skillImages = {
   GitHub,
   Heroku,
   Django,
+  MUI,
+  TypeScript,
 };
 
 export const personalImages = { About, Profile };
