@@ -29,10 +29,6 @@ export const About = () => {
           <p className="lead fs-4">
             Check out the projects I've worked on below.
           </p>
-          <p className="lead fs-4">
-            Also, I beat Dark Souls 3 lvl 1 no roll, so yeah, I'm kind of a big
-            deal.
-          </p>
         </div>
       </div>
     </div>
