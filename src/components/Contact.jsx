@@ -21,12 +21,12 @@ export const Contact = () => {
               </a>
             </li>
             <li>
+              LinkedIn:{" "}
               <a
-                href={CV}
-                download="CV_LuisDanielCova.pdf"
-                className="link-primary"
+                target="_blank"
+                href="https://www.linkedin.com/in/luis-daniel-cova/"
               >
-                My Resume
+                Luis Daniel Cova
               </a>
             </li>
           </ul>
