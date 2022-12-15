@@ -1,5 +1,4 @@
 import React from "react";
-import CV from "./assets/files/CV_LuisDanielCova.pdf";
 
 export const Contact = () => {
   return (
